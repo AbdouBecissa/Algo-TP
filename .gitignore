@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+tp1/datasets/_cache/
+tp1/tp1_bench
+*.exe
